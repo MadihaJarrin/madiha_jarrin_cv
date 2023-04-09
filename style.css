@@ -198,6 +198,20 @@ p {
     font-weight: 600;
 }
 
+.about .box .year_company button {
+    margin: 6px 0px;
+    padding: 5px;
+    background-color: #24232d;
+    border-radius: 5px;
+    border-style: initial;
+}
+
+.about .box .year_company button a {
+    text-decoration: none;
+    color: white;
+
+}
+
 .about .box .text h4 {
     text-transform: uppercase;
     color: #2a7da2;
@@ -231,7 +245,7 @@ p {
     top: 0;
     left: 0;
     height: 100%;
-    background: #6ca8ec;
+    background: #094961;
 
 }
 
@@ -248,7 +262,7 @@ p {
 }
 
 .interest ul li .fa {
-    color: #03a9f4;
+    color: #074a92;
     font-size: 18px;
     width: 20px;
 }
@@ -322,6 +336,10 @@ p {
 .ex-head {
     display: inline;
 }
+
+/* .fontawesome-icon {
+    color: #22546c;
+} */
 
 /* .border-und {
     border-bottom: 5px dashed rgb(165, 233, 226);
