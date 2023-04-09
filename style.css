@@ -150,7 +150,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    background: #cd9e8f;
+    background: #a6ebe7;
 }
 
 /*======================== Right Side ================*/
@@ -231,7 +231,7 @@ p {
     top: 0;
     left: 0;
     height: 100%;
-    background: #fcd9ba;
+    background: #182176;
 
 }
 
@@ -286,7 +286,43 @@ p {
 
 }
 
+.bground {
+    background-color: #dfe2e7;
+    border-radius: 10px;
+    padding: 20px 10px;
 
+}
+
+.contact a {
+    text-decoration: none;
+    color: white;
+}
+
+.buttons a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.buttons {
+
+    display: inline;
+
+
+}
+
+.buttons button {
+    padding: 5Px;
+    margin: 5px 10px;
+    border-radius: 5px;
+    background-color: #a6ebe7;
+}
+
+/* .border-und {
+    border-bottom: 5px dashed rgb(165, 233, 226);
+    width: 60%;
+} */
 
 
 /* img{
